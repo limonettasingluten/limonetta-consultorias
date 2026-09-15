@@ -9,6 +9,8 @@ Contenido del paquete
 - robots.txt y sitemap.xml: ayudan a los buscadores a recorrer el sitio.
 - proyecto-limonetta.html: página especial para alianzas e inversión.
 - logo-limonetta.png, favicon.png y og-consultorias.png: imágenes del sitio.
+- consultoria-procesos.webp: imagen principal de desarrollo, fábrica, capacitación y cocinas.
+- consultoria-marcas-expansion.webp: imagen de marcas, formación y expansión.
 
 Cómo publicarlo
 ---------------
