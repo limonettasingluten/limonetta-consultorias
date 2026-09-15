@@ -14,7 +14,7 @@ Cómo publicarlo
 ---------------
 1. Crear un repositorio público nuevo en GitHub. Nombre sugerido:
    limonetta-consultorias
-2. Subir TODO el contenido de esta carpeta, respetando las carpetas internas.
+2. Subir TODOS los archivos juntos. Este paquete no utiliza carpetas internas.
 3. Confirmar la carga en la rama main.
 4. Ir a Settings > Pages.
 5. En Build and deployment elegir:
