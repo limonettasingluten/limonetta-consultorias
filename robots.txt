@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://consultorias.limonettasingluten.com.ar/sitemap.xml
