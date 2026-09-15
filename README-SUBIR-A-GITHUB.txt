@@ -7,8 +7,8 @@ Contenido del paquete
 - app.js: menú, formularios y animaciones.
 - CNAME: conecta el sitio con consultorias.limonettasingluten.com.ar.
 - robots.txt y sitemap.xml: ayudan a los buscadores a recorrer el sitio.
-- proyecto-limonetta/: página especial para alianzas e inversión.
-- assets/: logo, ícono e imagen para compartir el enlace.
+- proyecto-limonetta.html: página especial para alianzas e inversión.
+- logo-limonetta.png, favicon.png y og-consultorias.png: imágenes del sitio.
 
 Cómo publicarlo
 ---------------
