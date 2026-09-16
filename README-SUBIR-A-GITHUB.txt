@@ -16,6 +16,15 @@ Contenido del paquete
 - proyecto-pasteleria-limonetta.webp: concepto de la futura pastelería.
 - proyecto-productos-pasteleria.webp: fotografía comercial de productos.
 - proyecto-local-franquicia.webp: concepto de local, sucursales y franquicias.
+- mapa-argentina-provincias.png: mapa geográfico utilizado en la sección de alcance.
+
+Esta versión también incluye
+----------------------------
+- Tipografías y fotografías equilibradas para reducir espacios y scroll.
+- Menú móvil con fondo sólido para evitar superposiciones.
+- Diseño adaptable a celulares, tablets y computadoras.
+- Enlaces oficiales a Instagram y Facebook de Limonetta.
+- Separación clara entre Consultorías y Proyecto Limonetta para inversores.
 
 Cómo publicarlo
 ---------------
